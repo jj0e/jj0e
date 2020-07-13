@@ -1,4 +1,4 @@
-# Hello, I'm Joe <img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="40px">
+# Hello, I'm Joe <img src="https://media.giphy.com/media/3o6Ztm0QIUajeHRYRO/giphy.gif" width="100px">
 
 *Computer Science Student at [Baylor University](https://www.baylor.edu)*
 </br>*Founder & CEO at [Hidden Technologies](https://hidden.gg)*

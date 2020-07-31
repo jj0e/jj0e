@@ -13,6 +13,7 @@ I'm an aspiring software engineer and entreprenuer, passionate about using new t
 <div style="display: inline-block">
     <img width="30px" src="https://img.icons8.com/color/48/000000/python.png"/>
     <img width="30px" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/48/000000/golang.png"/>
     <img width="30px" src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img width="30px" src="https://img.icons8.com/color/48/000000/react-native.png"/>
     <img width="30px" src="https://img.icons8.com/color/48/000000/sass.png"/>

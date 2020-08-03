@@ -1,7 +1,7 @@
 # Hello, I'm Joe <img src="https://media.giphy.com/media/3o6Ztm0QIUajeHRYRO/giphy.gif" width="100px">
 
 *Computer Science Student at [Baylor University](https://www.baylor.edu)*
-</br>*Founder & CEO at [Hidden Technologies](https://hidden.gg)*
+</br>*Founder & CEO at [Hidden Software](https://hidden.gg)*
 
 [![Twitter: jj0e_](https://img.shields.io/twitter/follow/jj0e_?style=social)](https://twitter.com/jj0e_)
 [![GitHub jj0e](https://img.shields.io/github/followers/jj0e?label=follow&style=social)](https://github.com/jj0e)

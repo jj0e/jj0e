@@ -30,7 +30,6 @@
 
 </p>
 
-- 🔭 I'm currently working on a **discord membership platform**
 - 👨‍💻 Most of my projects are closed source, feel free to reach out for more info
 - 💬 Ask me about **Python**, **C++**, and **Go**
 - 📫 How to reach me [joe@hidden.gg](mailto:joe@hidden.gg)

@@ -1,6 +1,23 @@
 <img src="https://cdn.discordapp.com/attachments/676478096337010709/788145313796849674/Untitled-1.png"></img>
 
-<p>Welcome to my page! </br> I'm a computer science student at <img src="https://img.icons8.com/color/48/000000/texas-flag.png" width="15" /> <b>Baylor University</b>. I enjoy reverse engineering and building fullstack applications in my free time.</p>
+<p>
+    🎓 Baylor University Class of 2023
+    <br>
+    🖥️ Software Engineer
+    <br>
+    🌐 Passionate about building full-stack applications
+    <br>
+    🔍 Avid reverse engineer of apps
+    <br>
+    🎓 Graduating this December
+    <br>
+    🌱 Always learning & eager to collaborate!
+    <br>
+    #SicEmBears 🐻
+    <br>
+    Let's build something great together! 💡
+
+</p>
 
 <h3>Things I code with</h3>
 <p>

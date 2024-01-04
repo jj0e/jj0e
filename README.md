@@ -1,19 +1,15 @@
 <img src="https://cdn.discordapp.com/attachments/676478096337010709/788145313796849674/Untitled-1.png"></img>
 
 <p>
-    🎓 Baylor University Class of 2023
-    <br>
     🖥️ Software Engineer
+    <br>
+    🎓 Baylor University Class of 2023
     <br>
     🌐 Passionate about building full-stack applications
     <br>
     🔍 Avid reverse engineer of apps
     <br>
-    🎓 Graduating this December
-    <br>
     🌱 Always learning & eager to collaborate!
-    <br>
-    #SicEmBears 🐻
     <br>
     Let's build something great together! 💡
 

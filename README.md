@@ -1,5 +1,3 @@
-<img src="https://cdn.discordapp.com/attachments/676478096337010709/788145313796849674/Untitled-1.png"></img>
-
 <p>
     🖥️ Software Engineer
     <br>
